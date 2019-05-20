@@ -47,3 +47,19 @@ https://javacan.tistory.com/entry/%EA%B8%B0%EC%96%B5%EC%9A%A9-Maven-%EC%A4%91%EC
 NEXUS 설치 및 repository 구축 방법
 https://bcho.tistory.com/790
 https://www.sonatype.com/
+
+
+************** SPRING BATCH **************
+
+STEP 간에 데이터 공유 프로그램 참조
+https://wckhg89.github.io/archivers/springbatch1
+
+https://wckhg89.github.io/archivers/springbatch3
+
+- Step Processor2 추가할 차례
+
+https://howtodoinjava.com/spring-batch/records-count-example/
+
+- step Context : step간 데이터 공유 참고
+https://dymn.tistory.com/55
+
