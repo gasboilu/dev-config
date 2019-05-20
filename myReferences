@@ -1,3 +1,26 @@
+스프링 클라우드
+https://medium.com/@yongkyu.jang/spring-%EC%A7%84%EC%98%81%EC%9D%98-%EC%A3%BC%EC%9A%94-tech-stream-1-88cc45f1d47c
+
+개발에 필요한 부분
+과제설정 : 주제를 정하고, 시나리오 작성, db설계
+
+서버 : node.js ,spring rest, Spring Boot(https://docs.spring.io/spring-boot/docs/current/reference/html/)
+클라이언트 : 
+		1> 웹(프론트엔드기술 framework 사용하는것이 추세) => VueJs,Reactive,AngularJs{javascript로 이루어져있음}
+		2> 모바일(안드로이드,IOS)
+		3> IOT
+대용량 데이터 : spring batch설정 필요 (xml,java), 빅데이터
+DB : mariadb
+CLOUD 처리
+
+
+스프링 5.0 : 신기술도입 (Reactive,WebFlux,Stream,Non-blocking)
+
+스프링 클라우드 핵심요소 : 마이크로 서비스
+
+spring data flow : 모바일장치(Android,IOS,IOT), 웨어러블, 자동차, 웹 연결
+
+
 mongodb insert 시에 _class값이 들어가는부분 삭제 방법
 https://everyflower.tistory.com/207
 
