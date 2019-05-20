@@ -63,3 +63,13 @@ https://howtodoinjava.com/spring-batch/records-count-example/
 - step Context : step간 데이터 공유 참고
 https://dymn.tistory.com/55
 
+1. spring batch 기능 살펴보기 예제 샘플 확인
+2. 기존 OMS_BATCH에 RFC정보값 불러오는 방법 찾아보기
+3. BATCH JOB 샘플 소스 만들고 JAR 파일로 만든후에  실행시켜보기
+4. JAR 파일 CRON TAB 생성하기
+
+Spring Batch Doc 페이지
+https://docs.spring.io/spring-batch/trunk/reference/html/readersAndWriters.html
+Mybatis : http://www.mybatis.org/spring/ko/batch.html
+
+
